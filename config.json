@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "Zooms",
+		"description": "Navigation Page",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "Zooms",
+		"subtitle": "I am because you are!",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "Zooms",
+		"signature": "I am because you are!",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
