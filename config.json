@@ -21,24 +21,59 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
+				"href": "https://blog.l-zs.com",
+				"icon": "blog",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
-				"icon": "xiaolian",
-				"text": "About"
+				"href": "https://tv.l-zs.com",
+				"icon": "tv",
+				"text": "TV"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
-				"icon": "email",
-				"text": "Email"
+				"href": "https://resume.l-zs.com",
+				"icon": "resume",
+				"text": "Resume"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
-				"icon": "github",
-				"text": "Github"
+				"href": "https://img-bed.l-zs.com",
+				"icon": "img-bed",
+				"text": "Img-Bed"
+			},
+			"fifth": {
+				"href": "https://music.l-zs.com",
+				"icon": "music",
+				"text": "Music"
+			},
+			"sixth": {
+				"href": "https://news.l-zs.com",
+				"icon": "news",
+				"text": "News"
+			},
+			"seventh": {
+				"href": "https://moments.l-zs.com",
+				"icon": "moments",
+				"text": "Moments"
+			},
+			"eighth": {
+				"href": "https://mail.l-zs.com",
+				"icon": "imail",
+				"text": "Imail"
+			},
+			"ninth": {
+				"href": "https://game.l-zs.com",
+				"icon": "game",
+				"text": "Game"
+			},
+			"tenth": {
+				"href": "https://chat.l-zs.com",
+				"icon": "chat",
+				"text": "Chat"
+			},
+			"eleventh": {
+				"href": "",
+				"icon": "other",
+				"text": "Other"
 			}
 		}
 	}
