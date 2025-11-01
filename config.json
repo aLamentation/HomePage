@@ -30,46 +30,46 @@
 				"icon": "tv",
 				"text": "TV"
 			},
-//			"third": {
-//				"href": "https://resume.l-zs.com",
-//				"icon": "resume",
-//				"text": "Resume"
-//			},
-//			"fourth": {
-//				"href": "https://img-bed.l-zs.com",
-//				"icon": "img-bed",
-//				"text": "Img-Bed"
-//			},
-//			"fifth": {
-//				"href": "https://music.l-zs.com",
-//				"icon": "music",
-//				"text": "Music"
-//			},
+			"third": {
+				"href": "https://resume.l-zs.com",
+				"icon": "resume",
+				"text": "Resume"
+			},
+			"fourth": {
+				"href": "https://img-bed.l-zs.com",
+				"icon": "img-bed",
+				"text": "Img-Bed"
+			},
+			"fifth": {
+				"href": "https://music.l-zs.com",
+				"icon": "music",
+				"text": "Music"
+			},
 			"sixth": {
 				"href": "https://news.l-zs.com",
 				"icon": "news",
 				"text": "News"
 			},
-//			"seventh": {
-//				"href": "https://moments.l-zs.com",
-//				"icon": "moments",
-//				"text": "Moments"
-//			},
-//			"eighth": {
-//				"href": "https://mail.l-zs.com",
-//				"icon": "imail",
-//				"text": "Imail"
-//			},
-//			"ninth": {
-//				"href": "https://game.l-zs.com",
-//				"icon": "game",
-//				"text": "Game"
-//			},
-//			"tenth": {
-//				"href": "https://chat.l-zs.com",
-//				"icon": "chat",
-//				"text": "Chat"
-//			},
+			"seventh": {
+				"href": "https://moments.l-zs.com",
+				"icon": "moments",
+				"text": "Moments"
+			},
+			"eighth": {
+				"href": "https://mail.l-zs.com",
+				"icon": "imail",
+				"text": "Imail"
+			},
+			"ninth": {
+				"href": "https://game.l-zs.com",
+				"icon": "game",
+				"text": "Game"
+			},
+			"tenth": {
+				"href": "https://chat.l-zs.com",
+				"icon": "chat",
+				"text": "Chat"
+			},
 			"eleventh": {
 				"href": "",
 				"icon": "other",
