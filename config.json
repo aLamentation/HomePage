@@ -49,6 +49,11 @@
 				"href": "https://mail.l-zs.com",
 				"icon": "imail",
 				"text": "Imail"
+			},
+			"ninth": {
+				"href": "https://horoscope.l-zs.com",
+				"icon": "horoscope",
+				"text": "Horoscope"
 			}
 		}
 	}
