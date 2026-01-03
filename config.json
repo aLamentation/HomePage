@@ -40,20 +40,25 @@
 				"icon": "img-bed",
 				"text": "Img-Bed"
 			},
-			"sixth": {
+			"fifth": {
 				"href": "https://news.l-zs.com",
 				"icon": "news",
 				"text": "News"
 			},
-			"eighth": {
+			"sixth": {
 				"href": "https://mail.l-zs.com",
 				"icon": "imail",
 				"text": "Imail"
 			},
-			"ninth": {
+			"seventh": {
 				"href": "https://horoscope.l-zs.com",
 				"icon": "horoscope",
 				"text": "Horoscope"
+			},
+			"eighth": {
+				"href": "https://taro.l-zs.com",
+				"icon": "taro",
+				"text": "Taro"
 			}
 		}
 	}
